@@ -2,6 +2,9 @@
 # ZCZC WEEK #MINUTES LogCode Description
 # LongCode: https://osp4diss.vlsm.org/ETC/logCodes.txt 
 
+ZCZC W01 250 L88 Badminton, Jogging, Gym
+ZCZC W01 120 L32 YouTube: watching from SOSI playlist
+ZCZC W01 300 L11 Assignment #01 related
 ZCZC W00 20 L00 Bengong and Melamun
 ZCZC W00 30 L01 SCELE/Discord related
 ZCZC W00 400 L02 Zoom from organization, SDA & MPPI online, and Quiz OS
@@ -20,4 +23,4 @@ ZCZC W00 300 L88 Badminton, Jogging, Gym
 ZCZC W00 145 L98 Attend My Mom's Birthday Party
 ZCZC W00 300 L99 Attend Apollo (2022 Fasilkom) Gathering
 ZCZC W00 200 L99 Read Komik (Manhwa)
-ZCZC W01 300 L11 Assignment #01 related
+
