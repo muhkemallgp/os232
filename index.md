@@ -5,4 +5,4 @@ OS232 2023/2024
 
 || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/muhkemallgp/os232/) ||
 
-#### REV01: Sat 16 Sep 2023 23.54
+#### REV02: Sat 16 Sep 2023 23.54
