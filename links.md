@@ -19,5 +19,15 @@ The youtube video from mr.anwar to help me about cyber security.
 
 3. [Article - What is Cyber Security?](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)<br>
 Article tell us abour Cyber Security, we learn about cyber threats, safety tips, etc
+
+## WEEK 03
+1. [Youtube - Learning From SOSI (System File & FUSE)](https://www.youtube.com/watch?v=PBkZynNIZWk)<br>
+The youtube video from mr.anwar to help me maintain and mountain about file.
+
+2. [Soft File PPT OS Concepts (File System)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch13.pptx)<br>
+PPT to learn system file.
+
+3. [Soft File PPT from Mr.RMS (File System and FUSE)](https://os.vlsm.org/Slides/os03.pdf)<br>
+PPT to learn system file and FUSE specially for quis OS.
 <br>
 <hr>
