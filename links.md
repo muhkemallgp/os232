@@ -11,7 +11,7 @@ The youtube video from mr.anwar to help me scripting in OS lecture
 
 ## Week 02
 
-1. [Youtube - Learning Cyber Security Course](https://www.youtube.com/watch?v=U_P23SqJaDc)<br>
+!@@1. [Youtube - Learning Cyber Security Course](https://www.youtube.com/watch?v=U_P23SqJaDc)<br>
 The youtube video from My CS to help me learning about Cyber Security.
 
 2. [Youtube - Learning From SOSI (Protection and Security)](https://www.youtube.com/watch?v=QpmAKN9j2ks)<br>
@@ -29,5 +29,6 @@ PPT to learn system file.
 
 3. [Soft File PPT from Mr.RMS (File System and FUSE)](https://os.vlsm.org/Slides/os03.pdf)<br>
 PPT to learn system file and FUSE specially for quis OS.
+
 <br>
 <hr>
