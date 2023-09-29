@@ -30,5 +30,14 @@ PPT to learn system file.
 3. [Soft File PPT from Mr.RMS (File System and FUSE)](https://os.vlsm.org/Slides/os03.pdf)<br>
 PPT to learn system file and FUSE specially for quis OS.
 
+## WEEK 04
+1. [Youtube - Learning From SOSI (Addressing, Share Lib, and Pointer)](https://www.youtube.com/watch?v=uFj7mKNq1t0)<br>
+The youtube video from mr.anwar to help me know about linux library, data pointer and adressing.
+
+2. [How Adressing Work](https://computer.howstuffworks.com/c23.htm)<br>
+Website article to know about man behind adressing.
+
+3. [Soft File PPT from Mr.RMS (File System and FUSE)](https://os.vlsm.org/Slides/os04.pdf)<br>
+PPT to learn adressing memory and pointers specially for quis OS.
 <br>
 <hr>
