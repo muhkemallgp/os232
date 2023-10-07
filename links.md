@@ -39,5 +39,15 @@ Website article to know about man behind adressing.
 
 3. [Soft File PPT from Mr.RMS (File System and FUSE)](https://os.vlsm.org/Slides/os04.pdf)<br>
 PPT to learn adressing memory and pointers specially for quis OS.
+
+## WEEK 05
+1. [Youtube - Learning From SOSI (Virtual Memory)](https://www.youtube.com/watch?v=E7pmf5pySTM&feature=youtu.be)<br>
+The youtube video from mr.anwar to help me learn further about indexing, pointer, and memory itself.
+
+2. [What is Virtual Memory!?](https://www.makeuseof.com/virtual-memory-on-linux/#:~:text=Virtual%20memory%20is%20a%20way,the%20kernel%20and%20hardware%20levels.)<br>
+Website article to know about man behind adressing.
+
+3. [Soft File PPT from Mr.RMS (Virtual Memory)](https://os.vlsm.org/Slides/os05.pdf)<br>
+PPT to learn code in C language and implementation about addressing in VM.
 <br>
 <hr>
