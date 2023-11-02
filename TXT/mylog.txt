@@ -2,6 +2,13 @@
 # ZCZC WEEK #MINUTES LogCode Description
 # LongCode: https://osp4diss.vlsm.org/ETC/logCodes.txt 
 
+ZCZC W06 10 L00 General,etc
+ZCZC W06 40 L01 SCELE/Discord related
+ZCZC W06 40 L05 Quiz and studying about it
+ZCZC W06 150 L16 Assignment #06 related
+ZCZC W06 30 L32 YouTube: watching from SOSI Playlist (Proccess)
+ZCZC W06 5 L41 TXT/mylog.txt related.
+ZCZC W06 200 L88 Badminton, Jogging
 ZCZC W05 6 L00 General,etc
 ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 30 L05 Quiz and studying about it
