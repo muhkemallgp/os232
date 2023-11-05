@@ -55,6 +55,6 @@ PPT to learn code in C language and implementation about addressing in VM.
 The youtube video from mr.anwar to help me learn further about Process & Cnncurrency.
 
 2. [PPT File From OS Concepts Books (Process Management)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch4.pptx)<br>
-PPT to learn code in C language and implementation about addressing in VM.
+PPT to learn about process management.
 <br>
 <hr>
