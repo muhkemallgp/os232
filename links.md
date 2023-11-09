@@ -51,10 +51,18 @@ Website article to know about man behind adressing.
 PPT to learn code in C language and implementation about addressing in VM.
 
 ## WEEK 06
-1. [Youtube - Learning From SOSI (Virtual Memory)](https://www.youtube.com/watch?v=-pL2fAdb7Kw)<br>
+1. [Youtube - Learning From SOSI (Process Management)](https://www.youtube.com/watch?v=-pL2fAdb7Kw)<br>
 The youtube video from mr.anwar to help me learn further about Process & Cnncurrency.
 
-2. [PPT File From OS Concepts Books (Process Management)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch4.pptx)<br>
+2. [PPT File From OS Concepts Books (Process Management)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch3.pptx)<br>
 PPT to learn about process management.
+
+## WEEK 07
+1. [Youtube - Learning From SOSI (Threads and Synchronization)](https://www.youtube.com/watch?v=Z5D3z3AzXII)<br>
+The youtube video from mr.anwar to help me learn further about Threads and Synchronization.
+
+2. [PPT File From OS Concepts Books (Threads and Synchronization)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch4.pptx)<br>
+PPT to learn about Threads and Synchronization.
+
 <br>
 <hr>
