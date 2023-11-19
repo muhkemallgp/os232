@@ -64,5 +64,12 @@ The youtube video from mr.anwar to help me learn further about Threads and Synch
 2. [PPT File From OS Concepts Books (Threads and Synchronization)](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch4.pptx)<br>
 PPT to learn about Threads and Synchronization.
 
+## WEEK 08
+1. [Youtube - Kernotex’s YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)<br>
+The youtube video from Kernotex helping me guide for this weekly assigment about lfs.
+
+2. [Youtube - Learning From SOSI (Scheduling)](https://www.youtube.com/watch?v=Gzic0dI3qQc&t=2197s)<br>
+The youtube video from mr.anwar about scheduling.
+
 <br>
 <hr>
